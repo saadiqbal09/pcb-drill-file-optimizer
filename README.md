@@ -9,3 +9,9 @@ This project is being developed as preparation for Google Summer of Code 2026 un
 - Tkinter GUI
 - CLI tool
 - Drill preview visualization
+
+  
+## Development Status
+
+This project is under active development as part of Google Summer of Code 2026
+preparation under the Python Software Foundation.
